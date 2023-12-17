@@ -3,7 +3,7 @@ package ru.mirea.LabList1.task2;
 import java.io.IOException;
 import java.util.Scanner;
 
-public class Main {
+public class Tester {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         CardList cardList = new CardList();
